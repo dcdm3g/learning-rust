@@ -20,6 +20,8 @@ The `main.rs` file serves as an entry point to the challenge files. You can run 
 
 ```sh
 cargo run
+# or
+cargo r
 ```
 
 ## Solved Challenges
