@@ -30,3 +30,4 @@ cargo r
 - [Count of Positives / Sum of Negatives](https://www.codewars.com/kata/576bb71bbbcf0951d5000044)
 - [Sum Mixed Array](https://www.codewars.com/kata/57eaeb9578748ff92a000009)
 - [Keep Hydrated!](https://www.codewars.com/kata/582cb0224e56e068d800003c)
+- [Is He Gonna Survive?](https://www.codewars.com/kata/59ca8246d751df55cc00014c)
